@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夏色のおもいで",
+  "base_artist": "吉岡聖恵",
+  "createdAt": "2026-01-05T08:35:05.467824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏色のおもいで",
+      "artist": "吉岡 聖恵",
+      "has_synced": true,
+      "path": "select/01_夏色のおもいで_吉岡_聖恵.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏色のおもいで",
+      "artist": "吉岡聖恵",
+      "has_synced": true,
+      "path": "select/02_夏色のおもいで_吉岡聖恵.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏色のおもいで",
+      "artist": "Kiyoe Yoshioka",
+      "has_synced": true,
+      "path": "select/03_夏色のおもいで_Kiyoe_Yoshioka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏色のおもいで",
+      "artist": "吉岡 聖恵",
+      "has_synced": false,
+      "path": "select/pl_01_夏色のおもいで_吉岡_聖恵.txt"
+    }
+  ]
+}
